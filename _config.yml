@@ -31,7 +31,7 @@ twitter_username: carlosdico
 github_username: carlosdico
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
   - jekyll-coffeescript
