@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Bienvenido a mi blog: Reflexiones sobre la tecnología y la automatización"
 date: 2025-01-29
 categories: tecnología automatización
